@@ -305,7 +305,7 @@ img {
 
 .article__img {
 	margin: 0px;
-	background-image: url("img/tesla-cabin.png");
+	background-image: url("../img/tesla-cabin.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 844px;
